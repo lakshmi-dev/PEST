@@ -3,7 +3,7 @@ import json
 
 class DomainObjectClass:
     """
-    Parent class of PEST
+    Parent class of PEST 
     """
     id = None
     name = None
