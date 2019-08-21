@@ -1,0 +1,1 @@
+from .domainobjectclass import *
