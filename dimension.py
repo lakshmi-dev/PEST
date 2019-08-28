@@ -1,6 +1,6 @@
 
 # from DI.PEST.pest import *
-from DI.PEST.domainobjectclass import DomainObjectClass
+from DI.common_modules.domainobjectclass import DomainObjectClass
 # from DI.PEST.pest import PEST
 
 

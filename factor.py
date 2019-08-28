@@ -1,6 +1,6 @@
 
-
-from DI.PEST import DomainObjectClass, pest, dimension
+from DI.common_modules.domainobjectclass import DomainObjectClass
+from DI.PEST import pest, dimension
 
 
 class Factor(DomainObjectClass):

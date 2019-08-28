@@ -1,7 +1,4 @@
-import json
-
-from DI.PEST.dimension import Dimension
-from DI.PEST.domainobjectclass import DomainObjectClass
+from DI.common_modules.domainobjectclass import DomainObjectClass
 
 
 class PEST(DomainObjectClass):
